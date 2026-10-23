@@ -9,4 +9,4 @@
 
 
 ## Note
-**Ropo of Computer Architecture tasks**
+**Repo of Computer Architecture tasks**
